@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Andrew Muchangi
+- 👀 I’m interested in robotics and software development
+- 🌱 I’m currently learning mechatronics engineering
+- 💞️ I’m looking to collaborate on AI development
+- 📫 How to reach me @andrew_muchangi on instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have ADHD,but I know how to handle it😂
