@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Andrew Muchangi
-- Currently studying mechatronics engineering
-- @andrew_muchangi on instagram
