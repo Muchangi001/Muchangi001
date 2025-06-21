@@ -7,9 +7,8 @@ I build systems, stories, and worlds.
 
 ### ⚡ Current Quests
 
-* 🎮 Crafting interactive **African-centered game worlds**
 * 🐐 Building tools for **modern African agriculture**
-* 🧱 Prototyping tools, APIs, and experiences that matter
+* 🎮 Crafting interactive **African-centered game worlds**
 
 ### 🌍 Vision
 
