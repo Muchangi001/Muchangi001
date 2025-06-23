@@ -21,7 +21,7 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 > 🧠 *Stack:* Rust
 
 ### 🌀 [Termini](https://github.com/Muchangi001/Termini)
-> **Terminal AI chatbot** using Google's Gemini with logging support  
+> **Terminal AI chatbot** using Google's Gemini
 > 🧠 *Stack:* Python
 
 ### 🌍 [Rustafari](https://github.com/Muchangi001/rustafari)
@@ -35,7 +35,7 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 - [c_bit_ops](https://github.com/Muchangi001/c_bit_ops) – Bitwise ops for embedded systems (C)  
 - [dfs](https://github.com/Muchangi001/dfs) – Directed graph and DFS using `HashMap` (Rust)  
 - [linear-regression-rs](https://github.com/Muchangi001/linear-regression-rs) – ML in vanilla Rust  
-- [sockets_in_c](https://github.com/Muchangi001/sockets_in_c) – TCP/UDP practice (C)  
+- [sockets_in_c](https://github.com/Muchangi001/sockets_in_c) – TCP practice (C)  
 
 ---
 
@@ -43,16 +43,16 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 
 - [checkbox_password_toggler](https://github.com/Muchangi001/checkbox_password_toggler) – React password toggle  
 - [simple_movie_api_made_with_flask](https://github.com/Muchangi001/simple_movie_api_made_with_flask) – Movie JSON API (Flask)  
-- [vending_machine](https://github.com/Muchangi001/vending_machine) – UI + logic using HTML/JS/Python  
+- [vending_machine](https://github.com/Muchangi001/vending_machine) – UI + logic using HTML/JS/Python (Pywebview)
+- [movie_frontend_using_tmdb_api](https://github.com/Muchangi001/movie_frontend_using_tmdb_api) - A React client that consumes the TMDB API.
 
 ---
 
 ## 📚 Learning Trails
 
 - [backend](https://github.com/Muchangi001/backend) – Axum + HTTP CRUD backend  
-- [3x3_matrix_inverse](https://github.com/Muchangi001/3x3_matrix_inverse) – Manual matrix inversion (Rust)  
-- [cpp_playground](https://github.com/Muchangi001/cpp_playground) – My C++ + Python sandpit  
-- [micropython](https://github.com/Muchangi001/micropython) – Fork of MicroPython  
+- [3x3_matrix_inverse](https://github.com/Muchangi001/3x3_matrix_inverse) – Manual matrix inversion (Rust)
+- [data_structures_in_c](https://github.com/Muchangi001/data_structures_in_c) - Graph, Linkedlist, Queue, Stack
 - [computer_programming_assignment_*](https://github.com/Muchangi001) – Early C learning  
 
 ---
@@ -74,10 +74,8 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 
 ---
 
-### 🌐 Let’s Connect
-- 📌 GitHub Discussions: [Muchangi001](https://github.com/Muchangi001/Muchangi001/discussions)
-- 🌍 LinkedIn: (https://www.linkedin.com/in/andrew-muchangi-75b419272/)*[optional – you can add your profile here]*  
-- 📝 Devlog / Blog: *[optional – link to Hashnode, Medium, etc.]*  
+## Let's connect
+> [linkedin](https://www.linkedin.com/in/andrew-muchangi-75b419272/)
 
 ---
 
