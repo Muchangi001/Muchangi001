@@ -10,14 +10,10 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 
 ### 🔥 [Ngai's Call](https://github.com/Muchangi001/Ngai-s-Call)
 > **Mau Mau-inspired 2.5D game** with Kikuyu spiritual mechanics  
-> 🧠 *Stack:* Dart, Swift, HTML, Objective-C, C++, Kotlin, C
+> 🧠 *Stack:* Dart
 
 ### 🔧 [00000001](https://github.com/Muchangi001/00000001)
 > **Guide for embedded Rust on STM32 Black Pill (USB DFU)**  
-> 🧠 *Stack:* RPC, Rust
-
-### 🎮 [game001](https://github.com/Muchangi001/game001)
-> **Rust + Bevy 2D game** exploring modern mechanics through Kikuyu culture  
 > 🧠 *Stack:* Rust
 
 ### 🌀 [Termini](https://github.com/Muchangi001/Termini)
@@ -26,6 +22,10 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 
 ### 🌍 [Rustafari](https://github.com/Muchangi001/rustafari)
 > **Rust developer community platform** for connection, mentorship, and collab  
+> 🧠 *Stack:* Rust
+
+### 🎮 [game001](https://github.com/Muchangi001/game001)
+> **Rust + Bevy 2D game** exploring modern mechanics through Kikuyu culture  
 > 🧠 *Stack:* Rust
 
 ---
