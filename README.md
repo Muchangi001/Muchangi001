@@ -21,7 +21,7 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 > 🧠 *Stack:* Rust
 
 ### 🌀 [Termini](https://github.com/Muchangi001/Termini)
-> **Terminal AI chatbot** using Google's Gemini
+> **Terminal AI chatbot** using Google's Gemini  
 > 🧠 *Stack:* Python
 
 ### 🌍 [Rustafari](https://github.com/Muchangi001/rustafari)
