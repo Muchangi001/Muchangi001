@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Andrew Muchangi – Art Meets Code
+# Andrew Muchangi – Art Meets Code
 
 **Creative Technologist | Embedded Rust Explorer | Game Dev**
 
