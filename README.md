@@ -78,5 +78,3 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 > [linkedin](https://www.linkedin.com/in/andrew-muchangi-75b419272/)
 
 ---
-
-🖤 *Built from a place of curiosity, culture, and code.*
