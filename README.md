@@ -69,7 +69,6 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 
 ## 🧘🏾‍♂️ Philosophy
 
-> *“When I write code, I sketch ideas. When I draw, I simulate spirit.  
 > Art and logic aren’t opposites—they’re just two tools to explore the same mystery.”*
 
 ---
