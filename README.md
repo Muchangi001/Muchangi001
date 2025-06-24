@@ -9,7 +9,7 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 ## 🚀 Featured Projects
 
 ### 🔥 [Ngai's Call](https://github.com/Muchangi001/Ngai-s-Call)
-> **Mau Mau-inspired 2.5D game** with Kikuyu spiritual mechanics  
+> **Mau Mau-inspired 2D game** with Kikuyu spiritual mechanics  
 > 🧠 *Stack:* Dart
 
 ### 🔧 [00000001](https://github.com/Muchangi001/00000001)
