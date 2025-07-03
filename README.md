@@ -1,8 +1,6 @@
-#  👨🏾‍💻 Andrew Muchangi – Art Meets Code
+#  👨🏾‍💻 Andrew Muchangi
 
-**Creative Technologist | Embedded Rust Explorer | Game Dev**
-
-I live at the intersection of logic and spirit — blending low-level systems, game engines, and web tools to tell stories, build tools, and awaken ideas. My work ranges from microcontroller firmware to culturally-rooted game worlds.
+**Dreamer | Builder**
 
 ---
 
@@ -22,10 +20,6 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 
 ### 🌍 [Rustafari](https://github.com/Muchangi001/rustafari)
 > **Rust developer community platform** for connection, mentorship, and collab  
-> 🧠 *Stack:* Rust
-
-### 🎮 [game001](https://github.com/Muchangi001/game001)
-> **Rust + Bevy 2D game** exploring modern mechanics through Kikuyu culture  
 > 🧠 *Stack:* Rust
 
 ---
@@ -64,12 +58,6 @@ I live at the intersection of logic and spirit — blending low-level systems, g
 - [graph-adjacency-list](https://github.com/Muchangi001/graph-adjacency-list) – Simple graph impl (Rust)  
 - [IR_controlled_car_arduino_uno](https://github.com/Muchangi001/IR_controlled_car_arduino_uno) – Arduino robotics  
 - [hello_world_assembly](https://github.com/Muchangi001/hello_world_assembly) – Lowest level hello 👋  
-
----
-
-## 🧘🏾‍♂️ Philosophy
-
-> Art and logic aren’t opposites—they’re just two tools to explore the same mystery.”*
 
 ---
 
