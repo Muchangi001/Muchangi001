@@ -57,8 +57,3 @@
 - [hello_world_assembly](https://github.com/Muchangi001/hello_world_assembly) – Lowest level hello 👋  
 
 ---
-
-## Let's connect
-> [linkedin](https://www.linkedin.com/in/andrew-muchangi-75b419272/)
-
----
