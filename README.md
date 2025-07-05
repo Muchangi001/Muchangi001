@@ -4,7 +4,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+
+### 🚀 [Physics simulator](https://github.com/Muchangi001/projectile_sim)
+> **Projectile Motion Education Game** written in go (ebiten engine)  
+
 
 ### 🔥 [Ngai's Call](https://github.com/Muchangi001/Ngai-s-Call)
 > **Mau Mau-inspired 2D game** with Kikuyu spiritual mechanics  
