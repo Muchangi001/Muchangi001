@@ -1,7 +1,5 @@
 #  👨🏾‍💻 Andrew Muchangi
 
-**Dreamer | Builder**
-
 ---
 
 ## Featured Projects
