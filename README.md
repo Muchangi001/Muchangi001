@@ -1,5 +1,3 @@
-#  👨🏾‍💻 Andrew Muchangi
-
 ---
 
 ## Featured Projects
