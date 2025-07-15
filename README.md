@@ -8,7 +8,7 @@
 
 
 ### 🔥 [Ngai's Call](https://github.com/Muchangi001/Ngai-s-Call)
-> **Mau Mau-inspired 2D game** with Kikuyu spiritual mechanics  
+> **Mau Mau-inspired 2D game** with Kikuyu spiritual mechanics written in flutter flame-engine  
 
 ### 🔧 [00000001](https://github.com/Muchangi001/00000001)
 > **Guide for embedded Rust on STM32 Black Pill (USB DFU)**  
