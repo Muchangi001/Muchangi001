@@ -6,16 +6,16 @@
 ### 🔥 [The Mugumo](https://github.com/Muchangi001/The-Mugumo)
 > **Mau Mau-inspired 2D game** with Kikuyu cultural mechanics.
 
-### 🚀 [Physics simulator](https://github.com/Muchangi001/projectile_sim)
+### [Physics simulator](https://github.com/Muchangi001/projectile_sim)
 > **Projectile Motion Education Game** written in go (ebiten engine)  
 
-### 🔧 [00000001](https://github.com/Muchangi001/00000001)
+### [00000001](https://github.com/Muchangi001/00000001)
 > **Guide for embedded Rust on STM32 Black Pill (USB DFU)**  
 
-### 🌀 [Termini](https://github.com/Muchangi001/Termini)
+### [Termini](https://github.com/Muchangi001/Termini)
 > **Terminal AI chatbot** using Google's Gemini  
 
-### 🌍 [Rustafari](https://github.com/Muchangi001/rustafari)
+### [Rustafari](https://github.com/Muchangi001/rustafari)
 > **Rust developer community platform** for connection, mentorship, and collab  
 
 ---
