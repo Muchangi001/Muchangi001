@@ -3,12 +3,11 @@
 
 ## Featured Projects
 
+### 🔥 [The Mugumo](https://github.com/Muchangi001/The-Mugumo)
+> **Mau Mau-inspired 2D game** with Kikuyu cultural mechanics.
+
 ### 🚀 [Physics simulator](https://github.com/Muchangi001/projectile_sim)
 > **Projectile Motion Education Game** written in go (ebiten engine)  
-
-
-### 🔥 [Ngai's Call](https://github.com/Muchangi001/Ngai-s-Call)
-> **Mau Mau-inspired 2D game** with Kikuyu spiritual mechanics written in flutter flame-engine  
 
 ### 🔧 [00000001](https://github.com/Muchangi001/00000001)
 > **Guide for embedded Rust on STM32 Black Pill (USB DFU)**  
